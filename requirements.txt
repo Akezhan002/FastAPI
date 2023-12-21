@@ -1,0 +1,7 @@
+fastapi==0.104.1
+uvicorn==0.23.2
+pydantic~=2.4.2
+SQLAlchemy==2.0.22
+sqlalchemy-orm==1.2.10
+psycopg2==2.9.9
+Jinja2==3.1.2
